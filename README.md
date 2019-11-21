@@ -1,2 +1,2 @@
-# sezzleSezyCalculator
+# sezzleCalculator
  
